@@ -1,0 +1,22 @@
+[
+    {
+        "countryCode":"+1",
+        "phoneNumber": 218287213,
+        "accountStatus": "ACTIVE"  
+    },
+    {
+        "countryCode":"+1",
+        "phoneNumber": 1234567890,
+        "accountStatus": "ACTIVE"  
+    },
+    {
+        "countryCode":"+1",
+        "phoneNumber": 13131367890,
+        "accountStatus": "INACTIVE"  
+    },
+    {
+        "countryCode":"+1",
+        "phoneNumber": 123456127890,
+        "accountStatus": "ACTIVE"  
+    }
+]
